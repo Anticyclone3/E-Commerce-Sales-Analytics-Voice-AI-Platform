@@ -54,6 +54,9 @@ Built to mirror the official **Career Principles** visual language:
 - **Deep Navy (`#073673`):** Header background, bold headings, secondary chart accents.
 - **Minimalist Aesthetic:** Clean UI, zero chart clutter, consistent rounded corners, subtle borders, and contextual hover tooltips across all visual elements.
 
+<img width="1920" height="891" alt="image" src="https://github.com/user-attachments/assets/a494ba01-dca9-4cbf-a779-fdcd6dc7e32b" />
+
+
 ---
 
 ## 🛠️ Tech Stack
