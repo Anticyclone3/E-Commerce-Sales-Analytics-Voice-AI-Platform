@@ -2,7 +2,7 @@
 
 An enterprise-grade, real-time e-commerce analytics platform and data directory featuring automated live data syncing, dynamic chart drill-downs, filtered CSV exporting, and an interactive **British Voice AI Agent** for stakeholder data Q&A.
 
-![Career Principles Analytics](https://via.placeholder.com/1200x600?text=Career+Principles+Dashboard+Preview) <!-- Replace with actual screenshot or GIF -->
+Career Principles Analytics
 
 ## 🌟 Live Demo
 - **Live Application:** [View Deployed App] :- https://navi-finder.lovable.app/
